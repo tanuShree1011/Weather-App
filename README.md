@@ -1,3 +1,2 @@
-**#Weather App
-**
-This app gives the weather, humidity and wind speed of any city you search for
+
+This weather app gives the weather, humidity and wind speed of any city you search for
